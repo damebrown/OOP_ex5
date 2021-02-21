@@ -1,0 +1,45 @@
+daniel.brown1
+mattan
+
+=============================
+=      File description     =
+=============================
+filesprocessing package-
+    DirectoryProcessor class
+Filters package-
+    Filter interface
+    FilterFactory- a singleton class
+    All class
+    Between class
+    Contains class
+    Executable class
+    FileName class
+    GreaterThan class
+    Hidden class
+    Negative class
+    Prefix class
+    SmallerThan class
+    Suffix class
+    Writable class
+Orders package-
+    Order abstract class
+    OrderFactory- a singleton class
+    AbsoluteOrder class
+    SizeOrder class
+    TypeOrder class
+Readme
+
+=============================
+=          Design           =
+=============================
+
+
+=============================
+=  Implementation details   =
+=============================
+
+
+=============================
+=    Answers to questions   =
+=============================
+
